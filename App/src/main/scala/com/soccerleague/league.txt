@@ -1,0 +1,4 @@
+Lion 3, Juda 4, Barca 3
+Barca 3, Lion 0
+John 1, Oli 3
+Pod 3, New 0
