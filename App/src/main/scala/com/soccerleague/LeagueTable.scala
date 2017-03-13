@@ -70,9 +70,9 @@ object LeagueTable {
       .toSeq
       .sortWith((leftE, rightE) => {
         if(leftE.result == rightE.result)
-          leftE.name <= rightE.name
+          leftE.name < rightE.name
         else
-          leftE.result >= rightE.result
+          leftE.result > rightE.result
       })
 
   }
